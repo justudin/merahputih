@@ -1,0 +1,12 @@
+<?php 
+/*
+Created by @justudinlab
+2015-07-03 KST
+*/
+session_start();
+session_unset();
+    $_SESSION['FBID'] = NULL;
+    $_SESSION['FULLNAME'] = NULL;
+    $_SESSION['EMAIL'] =  NULL;
+header("Location: index.php");    
+?>
