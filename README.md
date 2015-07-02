@@ -1,6 +1,6 @@
 # source code of merah-putih.tk
-feel free to contribute to improve the code.
-and don't forget to cite my name @justudinlab
+Feel free to make a contribution to improve the code.
+\nBangga Menjadi Warga Indonesia | Proud to be Indonesian! Build with ♥ by @justudinlab
 
-Thanks,
-Udin a.k.a @justudinlab
+\nThanks,
+\n@justudinlab
